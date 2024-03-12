@@ -1,5 +1,5 @@
 def main():
-    stu_info = input("이름 학번 학과: ")
+    stu_info = input("이름 학번 학과 ")
     
     print(stu_info)
     
